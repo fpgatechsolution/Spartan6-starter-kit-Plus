@@ -1,6 +1,4 @@
-![alt text](https://github.com/fpgatechsolution/Spartan6-starter-kit/blob/master/img/IMG1.jpg)
-
-
+![alt text](https://github.com/fpgatechsolution/Spartan6-starter-kit-Plus/blob/main/img/IMG1.jpg)
 
 
 

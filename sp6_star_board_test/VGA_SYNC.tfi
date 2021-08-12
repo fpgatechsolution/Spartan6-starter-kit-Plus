@@ -1,0 +1,16 @@
+
+
+
+// Instantiate the module
+VGA_SYNC instance_name (
+    .clock_25Mhz(clock_25Mhz), 
+    .red_out(red_out), 
+    .green_out(green_out), 
+    .blue_out(blue_out), 
+    .horiz_sync_out(horiz_sync_out), 
+    .vert_sync_out(vert_sync_out), 
+    .pixel_row(pixel_row), 
+    .pixel_column(pixel_column)
+    );
+
+

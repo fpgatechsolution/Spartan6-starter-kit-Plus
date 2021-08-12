@@ -1,0 +1,7 @@
+verilog work "ipcore_dir/clk_dcm.v"
+vhdl work "VGA.vhd"
+vhdl work "SEVEN_SIGMENT.vhd"
+vhdl work "pwm.vhd"
+vhdl work "LED_SHIFTER.vhd"
+vhdl work "LCD_CNTROL.vhd"
+vhdl work "top.vhd"

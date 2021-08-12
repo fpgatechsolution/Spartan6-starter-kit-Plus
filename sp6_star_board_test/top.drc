@@ -1,0 +1,15 @@
+Release 14.7 Drc P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Sun Mar 07 11:00:54 2021
+
+drc -z TOP.ncd TOP.pcf
+
+WARNING:PhysDesignRules:372 - Gated clock. Clock net INST_PWM_TEST/LATCH is
+   sourced by a combinatorial pin. This is not good design practice. Use the CE
+   pin to control the loading of data into the flip-flop.
+INFO:PhysDesignRules:1861 - To achieve optimal frequency synthesis performance
+   with the CLKFX and CLKFX180 outputs of the DCM comp INST_clk_dcm/dcm_sp_inst,
+   consult the device Data Sheet.
+DRC detected 0 errors and 1 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

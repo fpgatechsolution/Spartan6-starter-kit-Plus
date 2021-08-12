@@ -1,0 +1,2 @@
+vhdtdtfi -prj sp6_star_board_test -o E:/KITCODE/sp6_star_plus/sp6_star_board_test/VGA_SYNC.tfi -module VGA_SYNC -template C:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work VGA.vhd 
+vhdtdtfi -prj sp6_star_board_test -o E:/KITCODE/sp6_star_plus/sp6_star_board_test/VGA_SYNC.vhi -module VGA_SYNC -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work VGA.vhd 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\KITCODE\sp6_star_plus\esp8266 IO control\ESP_8266 IO control\WIFI_TOP.ncd
+OUTFILE=E:\KITCODE\sp6_star_plus\esp8266 IO control\ESP_8266 IO control\WIFI_TOP.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=E:\KITCODE\sp6_star_plus\esp8266 IO control\ESP_8266 IO control
+LICENSE=WebPack
+USER_INFO=__0_0_0
